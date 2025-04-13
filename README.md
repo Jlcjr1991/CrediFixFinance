@@ -1,2 +1,2 @@
 # CrediFix
-A mobile app for improving financial health.
+A mobile app & website for improving financial health.
